@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minting/static/css/main.b4d9f43c.chunk.css",
+    "main.js": "/minting/static/js/main.d61b456a.chunk.js",
+    "main.js.map": "/minting/static/js/main.d61b456a.chunk.js.map",
+    "runtime-main.js": "/minting/static/js/runtime-main.b01f99dc.js",
+    "runtime-main.js.map": "/minting/static/js/runtime-main.b01f99dc.js.map",
+    "static/js/2.d0c7b037.chunk.js": "/minting/static/js/2.d0c7b037.chunk.js",
+    "static/js/2.d0c7b037.chunk.js.map": "/minting/static/js/2.d0c7b037.chunk.js.map",
+    "static/js/3.1f032b28.chunk.js": "/minting/static/js/3.1f032b28.chunk.js",
+    "static/js/3.1f032b28.chunk.js.map": "/minting/static/js/3.1f032b28.chunk.js.map",
+    "index.html": "/minting/index.html",
+    "static/css/main.b4d9f43c.chunk.css.map": "/minting/static/css/main.b4d9f43c.chunk.css.map",
+    "static/js/2.d0c7b037.chunk.js.LICENSE.txt": "/minting/static/js/2.d0c7b037.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/minting/static/media/PassionOne-Regular.67f07916.ttf",
+    "static/media/cryptaroosbanner.53030c56.png": "/minting/static/media/cryptaroosbanner.53030c56.png",
+    "static/media/roogif.7c27d4ce.gif": "/minting/static/media/roogif.7c27d4ce.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b01f99dc.js",
+    "static/js/2.d0c7b037.chunk.js",
+    "static/css/main.b4d9f43c.chunk.css",
+    "static/js/main.d61b456a.chunk.js"
+  ]
+}
