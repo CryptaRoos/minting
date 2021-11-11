@@ -1,0 +1,12 @@
+{
+    "edition": 1000,
+    "description": "CryptaRoos are a collection of 5000 unique and authentic NFT’s from the Australian Outback!",
+    "image": "https://cryptaroos.s3.us-east-2.amazonaws.com/nft/1000.png",
+    "name": "CryptaRoo #1000",
+    "attributes": [
+        {
+            "trait_type": "Special Edition",
+            "value": "Robot"
+        }
+    ]
+}

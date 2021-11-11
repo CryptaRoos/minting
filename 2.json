@@ -1,0 +1,40 @@
+{
+    "edition": 2,
+    "description": "CryptaRoos are a collection of 5000 unique and authentic NFT’s from the Australian Outback!",
+    "image": "https://cryptaroos.s3.us-east-2.amazonaws.com/nft/2.png",
+    "name": "CryptaRoo #2",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light Green"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Blue Fur"
+        },
+        {
+            "trait_type": "Tattoo",
+            "value": "Cross"
+        },
+        {
+            "trait_type": "Shirts",
+            "value": "Blue Singlet"
+        },
+        {
+            "trait_type": "Necklace",
+            "value": "Crystal"
+        },
+        {
+            "trait_type": "Facial Hair",
+            "value": "Brown Beard"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Speed Dealers"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Mohawk"
+        }
+    ]
+}
